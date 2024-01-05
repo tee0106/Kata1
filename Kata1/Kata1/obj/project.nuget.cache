@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cUKDYP6l8L5U8ic1geUiRh+j+PyhJMcRNM5WKHrQM7J9R201078vCKPSRxlnW1rsj2VHasAAIhnDgQgaw3uzlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chongsheng.tee37\\source\\repos\\Kata1\\Kata1\\Kata1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.remotes.local/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
