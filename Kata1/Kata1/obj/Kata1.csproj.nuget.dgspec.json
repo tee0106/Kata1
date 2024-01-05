@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chongsheng.tee37\\source\\repos\\Kata1\\Kata1\\Kata1.csproj": {}
+    "C:\\project\\Kata1\\Kata1\\Kata1\\Kata1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chongsheng.tee37\\source\\repos\\Kata1\\Kata1\\Kata1.csproj": {
+    "C:\\project\\Kata1\\Kata1\\Kata1\\Kata1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chongsheng.tee37\\source\\repos\\Kata1\\Kata1\\Kata1.csproj",
+        "projectUniqueName": "C:\\project\\Kata1\\Kata1\\Kata1\\Kata1.csproj",
         "projectName": "Kata1",
-        "projectPath": "C:\\Users\\chongsheng.tee37\\source\\repos\\Kata1\\Kata1\\Kata1.csproj",
+        "projectPath": "C:\\project\\Kata1\\Kata1\\Kata1\\Kata1.csproj",
         "packagesPath": "C:\\Users\\chongsheng.tee37\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chongsheng.tee37\\source\\repos\\Kata1\\Kata1\\obj\\",
+        "outputPath": "C:\\project\\Kata1\\Kata1\\Kata1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chongsheng.tee37\\AppData\\Roaming\\NuGet\\NuGet.Config",

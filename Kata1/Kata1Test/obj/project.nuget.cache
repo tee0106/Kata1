@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QOiUdUjiSQ0Oq35Vz9L+MczNgl8oFXlLRSzq18LJKG6brZEGZy1WcTKFI8sn7Dh7LdrpuR6R/sD1J7VCofLTXA==",
+  "dgSpecHash": "7d30h9wCI8tfu1f+cSDDr6G4LuNYi1jZiwQhHPBmHByBSKhd+M1WkazbIcX0cKIJaXLy9xxlVHsVWm/8Up7Jlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chongsheng.tee37\\source\\repos\\Kata1\\Kata1Test\\Kata1Test.csproj",
+  "projectFilePath": "C:\\project\\Kata1\\Kata1\\Kata1Test\\Kata1Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chongsheng.tee37\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\chongsheng.tee37\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
